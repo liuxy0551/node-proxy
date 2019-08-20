@@ -1,7 +1,95 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="06100240-8726-4672-8679-fbd58afd927f" name="Default Changelist" comment="" />
+    <list default="true" id="06100240-8726-4672-8679-fbd58afd927f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_debug@3.2.6@debug/CHANGELOG.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_debug@3.2.6@debug/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_debug@3.2.6@debug/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_debug@3.2.6@debug/dist/debug.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_debug@3.2.6@debug/node.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_debug@3.2.6@debug/node_modules/ms" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_debug@3.2.6@debug/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_debug@3.2.6@debug/src/browser.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_debug@3.2.6@debug/src/common.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_debug@3.2.6@debug/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_debug@3.2.6@debug/src/node.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_eventemitter3@3.1.2@eventemitter3/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_eventemitter3@3.1.2@eventemitter3/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_eventemitter3@3.1.2@eventemitter3/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_eventemitter3@3.1.2@eventemitter3/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_eventemitter3@3.1.2@eventemitter3/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_eventemitter3@3.1.2@eventemitter3/umd/eventemitter3.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_eventemitter3@3.1.2@eventemitter3/umd/eventemitter3.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_eventemitter3@3.1.2@eventemitter3/umd/eventemitter3.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_follow-redirects@1.7.0@follow-redirects/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_follow-redirects@1.7.0@follow-redirects/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_follow-redirects@1.7.0@follow-redirects/http.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_follow-redirects@1.7.0@follow-redirects/https.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_follow-redirects@1.7.0@follow-redirects/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_follow-redirects@1.7.0@follow-redirects/node_modules/debug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_follow-redirects@1.7.0@follow-redirects/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_http-proxy@1.17.0@http-proxy/.nyc_output/964792f65a1be0c07a24aa0ccfb5d038.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_http-proxy@1.17.0@http-proxy/.nyc_output/a290d7f5908ec7d06d33ee34e792483c.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_http-proxy@1.17.0@http-proxy/.nyc_output/bb60b90ed8ee70af09b130b7e0e44671.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_http-proxy@1.17.0@http-proxy/CODE_OF_CONDUCT.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_http-proxy@1.17.0@http-proxy/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_http-proxy@1.17.0@http-proxy/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_http-proxy@1.17.0@http-proxy/codecov.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_http-proxy@1.17.0@http-proxy/coverage/lcov-report/base.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_http-proxy@1.17.0@http-proxy/coverage/lcov-report/block-navigation.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_http-proxy@1.17.0@http-proxy/coverage/lcov-report/http-proxy/common.js.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_http-proxy@1.17.0@http-proxy/coverage/lcov-report/http-proxy/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_http-proxy@1.17.0@http-proxy/coverage/lcov-report/http-proxy/passes/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_http-proxy@1.17.0@http-proxy/coverage/lcov-report/http-proxy/passes/web-incoming.js.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_http-proxy@1.17.0@http-proxy/coverage/lcov-report/http-proxy/passes/web-outgoing.js.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_http-proxy@1.17.0@http-proxy/coverage/lcov-report/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_http-proxy@1.17.0@http-proxy/coverage/lcov-report/lib/http-proxy.js.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_http-proxy@1.17.0@http-proxy/coverage/lcov-report/lib/http-proxy/common.js.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_http-proxy@1.17.0@http-proxy/coverage/lcov-report/lib/http-proxy/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_http-proxy@1.17.0@http-proxy/coverage/lcov-report/lib/http-proxy/index.js.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_http-proxy@1.17.0@http-proxy/coverage/lcov-report/lib/http-proxy/passes/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_http-proxy@1.17.0@http-proxy/coverage/lcov-report/lib/http-proxy/passes/web-incoming.js.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_http-proxy@1.17.0@http-proxy/coverage/lcov-report/lib/http-proxy/passes/web-outgoing.js.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_http-proxy@1.17.0@http-proxy/coverage/lcov-report/lib/http-proxy/passes/ws-incoming.js.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_http-proxy@1.17.0@http-proxy/coverage/lcov-report/lib/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_http-proxy@1.17.0@http-proxy/coverage/lcov-report/prettify.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_http-proxy@1.17.0@http-proxy/coverage/lcov-report/prettify.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_http-proxy@1.17.0@http-proxy/coverage/lcov-report/sort-arrow-sprite.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_http-proxy@1.17.0@http-proxy/coverage/lcov-report/sorter.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_http-proxy@1.17.0@http-proxy/coverage/lcov.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_http-proxy@1.17.0@http-proxy/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_http-proxy@1.17.0@http-proxy/lib/http-proxy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_http-proxy@1.17.0@http-proxy/lib/http-proxy/common.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_http-proxy@1.17.0@http-proxy/lib/http-proxy/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_http-proxy@1.17.0@http-proxy/lib/http-proxy/passes/web-incoming.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_http-proxy@1.17.0@http-proxy/lib/http-proxy/passes/web-outgoing.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_http-proxy@1.17.0@http-proxy/lib/http-proxy/passes/ws-incoming.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_http-proxy@1.17.0@http-proxy/node_modules/eventemitter3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_http-proxy@1.17.0@http-proxy/node_modules/follow-redirects" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_http-proxy@1.17.0@http-proxy/node_modules/requires-port" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_http-proxy@1.17.0@http-proxy/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_ms@2.1.2@ms/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_ms@2.1.2@ms/license.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_ms@2.1.2@ms/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_ms@2.1.2@ms/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_requires-port@1.0.0@requires-port/.npmignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_requires-port@1.0.0@requires-port/.travis.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_requires-port@1.0.0@requires-port/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_requires-port@1.0.0@requires-port/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_requires-port@1.0.0@requires-port/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_requires-port@1.0.0@requires-port/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/_requires-port@1.0.0@requires-port/test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/debug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/eventemitter3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/follow-redirects" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/http-proxy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ms" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/requires-port" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portList.json" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -12,26 +100,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/index.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/portList.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="1" selection-start-column="1" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -60,6 +129,7 @@
         <option value="$PROJECT_DIR$/portList.json" />
         <option value="$PROJECT_DIR$/index.js" />
         <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -121,12 +191,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1566264724277</updated>
-      <workItem from="1566264726361" duration="4226000" />
+      <workItem from="1566264726361" duration="4469000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4226000" />
+    <option name="totallyTimeSpent" value="4469000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -141,12 +211,12 @@
     <frame x="0" y="0" width="1424" height="802" extended-state="0" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15680684" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15680684" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="1" />
       <window_info anchor="bottom" id="TODO" order="2" weight="0.329235" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="3" visible="true" weight="0.40710384" />
+      <window_info anchor="bottom" id="Terminal" order="3" visible="true" weight="0.40710384" />
       <window_info anchor="bottom" id="Event Log" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="5" />
       <window_info anchor="bottom" id="Find" order="6" weight="0.329235" />
@@ -195,6 +265,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="288">
           <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16">
+          <caret line="1" column="12" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
         </state>
       </provider>
     </entry>

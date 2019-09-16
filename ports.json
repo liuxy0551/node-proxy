@@ -1,13 +1,17 @@
 [
   {
-    "name": "ding-school-recruit",
-    "target": "http://127.0.0.1:32868",
+    "target": "http://127.0.0.1:8080",
     "port": "8000",
-    "hidden": true
+    "hidden": false
   },
   {
-    "name": "ding-employment",
-    "target": "http://127.0.0.1:20951",
-    "port": "9000"
+    "target": "http://127.0.0.1:8081",
+    "port": "9000",
+    "hidden": false
+  },
+  {
+    "target": "http://192.168.31.229:8084",
+    "port": "8000",
+    "hidden": true
   }
 ]

@@ -1,19 +1,15 @@
 let http = require('http');
-let httpProxy = require('http-proxy');
-let proxy = httpProxy.createProxyServer({});
+let proxy = require('http-proxy').createProxyServer({});
 let ports = require('./ports');
 
-proxy.on('proxyReq', function(proxyReq, req, res, options) {
-  // 设置 Header
-  proxyReq.setHeader('X-Special-Proxy-Header', 'foobar');
-});
-
 for (let i of ports) {
-  http.createServer(function(req, res) {
-    proxy.web(req, res, {
-      target: i.target
-    });
-  }).listen(i.port);
+  if (!i.hidden) {
+    http.createServer(function(req, res) {
+      proxy.web(req, res, {
+        target: i.target
+      });
+    }).listen(i.port);
 
-  console.log(`listening ${i.name} on port ${i.port}`);
+    console.log(`listening ${i.target} on port ${i.port}`);
+  }
 }

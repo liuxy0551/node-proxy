@@ -1,15 +1,15 @@
-let http = require('http');
-let proxy = require('http-proxy').createProxyServer({});
-let ports = require('./ports');
+const http = require('http')
+const proxy = require('http-proxy').createProxyServer({})
+const ports = require('./ports')
 
-for (let i of ports) {
-  if (!i.hidden) {
-    http.createServer(function(req, res) {
+for (let { target, port, hidden } of ports) {
+  if (!hidden) {
+    http.createServer((req, res) => {
       proxy.web(req, res, {
-        target: i.target
-      });
-    }).listen(i.port);
+        target
+      })
+    }).listen(port)
 
-    console.log(`listening ${i.target} on port ${i.port}`);
+    console.log(`listening ${ target } on port ${ port }`)
   }
 }
